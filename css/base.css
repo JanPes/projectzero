@@ -161,7 +161,7 @@ footer p {
     position: relative;
 }
 .logo h1 {
-    background: rgba(0, 0, 0, 0) url("Brianlogo.jpg") repeat scroll 0 0;
+    background: rgba(0, 0, 0, 0) url("../images/Brianlogo.jpg") repeat scroll 0 0;
     height: 110px;
     text-indent: -9999px;
     width: 233px;
